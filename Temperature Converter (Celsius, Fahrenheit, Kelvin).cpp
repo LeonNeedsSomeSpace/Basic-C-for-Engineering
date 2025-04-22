@@ -1,4 +1,4 @@
-//Create a temperature converter that converts Temperature from one unit to another
+//Create a temperature converter that converts temperature from one unit to another
 //It can convert Celsius into Kelvin, Fahrenheit to Kelvin, Kelvin to Celsius as well as Kelvin to Fahrenheit 
 //In Thermodynamics, for example, Kelvin is used because it represents the absolute temperature scale
 
