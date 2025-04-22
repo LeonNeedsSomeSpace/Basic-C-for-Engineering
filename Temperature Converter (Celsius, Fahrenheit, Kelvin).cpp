@@ -14,7 +14,7 @@ int main() {
 	printf("Temperature input here:  \n"); 
 	scanf("%f %c", &temp, &unit); //Evaluate the input for both the digits as well as the unit (letter) 
 
-	//Create conditions for conversion
+	//Create if-conditions for conversion
 	//Convert Celsius to Kelvin
 	if (unit == 'C' || unit == 'c') { 
 		float kelvin = temp + 273.15;
@@ -32,6 +32,7 @@ int main() {
 		printf("%.2fK = %.2fC\n", temp, celsius); 
 		printf("%.2fK = %.2fF\n", temp, fahrenheit); 
 	}
+	//Be aware that units are required	
 	//For any input that doesn't fit the requirements, an error message will pop up
 	else {
 		printf("Invalid unit. Use C for Celsius, F for Fahrenheit and K for Kelvin.\n"); 
