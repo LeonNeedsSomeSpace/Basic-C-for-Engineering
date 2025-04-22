@@ -10,7 +10,7 @@ int main() {
 	float temp; //Define a variable that accepts temp as a float
 	char unit; //Define a variable that accepts unit inputs 
 
-	printf("Your input must contain a unit. Use C for celsius, F for Fahrenheit and K for Kelvin\n"); 
+	printf("Your input must contain a unit. Use C for celsius, F for Fahrenheit and K for Kelvin.\n"); 
 	printf("Temperature input here:  \n"); 
 	scanf("%f %c", &temp, &unit); //Evaluate the input for both the digits as well as the unit (letter) 
 
