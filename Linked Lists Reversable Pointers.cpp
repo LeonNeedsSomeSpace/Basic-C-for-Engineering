@@ -2,7 +2,7 @@
 //It can operate the stored tasks in a normal mode where it carries out the tasks in the order that is given
 //In reverse mode, however, the tasks are carried out in the opposite of the listed order
 
-//This code is written in C++ as it is better for complex programs due to its object-oriented features 
+//This code is written in C++ instead of C as C++ is better for complex programs due to its object-oriented features 
 #include <iostream>
 #include <string>
 
