@@ -2,7 +2,16 @@ The repository that you find here contains a collection of simple programs in C 
 These programs were created partly using knowledge obtained during my studies as well as self-taught skills. 
 Codes featured currently are: 
 
-                           |                                       |
+
+        File                           |        Description                               |       Usefulnes
+        Array Reversal                 |
+        
+
+
+
+
+
+
 File: Array Reversal             
 Description: Reversing elements in an Array        
 Why it is useful: Demonstrates array manipulation, can be useful in data processing tasks
