@@ -4,13 +4,9 @@ Codes featured currently are:
 
 
         File                           |        Description                               |       Usefulnes
-        Array Reversal                 |
+        Array Reversal                 |        Reversing elements in an Array            |       Demonstrates array manipulation, can be useful in data processing tasks
         
-
-
-
-
-
+        
 
 File: Array Reversal             
 Description: Reversing elements in an Array        
